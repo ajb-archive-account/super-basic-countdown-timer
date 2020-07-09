@@ -1,0 +1,18 @@
+h1, h3 {
+  font-family: monospace;
+  font: courier;
+  font-size: 60px;
+  color: #fff;
+}
+
+button {
+  font-family: monospace;
+  font: courier
+  text-align: center;
+  font-size: 30px;
+}
+
+body {
+  background: #4b4b4c;
+  text-align: center;
+}
